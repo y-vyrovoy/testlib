@@ -1,6 +1,6 @@
 package testlib
 
-var start = 3
+var start = 100
 
 func GiveMeNumber() int {
 	return start
